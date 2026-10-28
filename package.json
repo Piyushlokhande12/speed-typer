@@ -1,0 +1,12 @@
+{
+  "name": "speed-writer-bot",
+  "version": "1.0.0",
+  "description": "Automated 40 WPM typewriter bot for typingtest.com using Playwright",
+  "main": "typer.js",
+  "scripts": {
+    "start": "node typer.js"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}
